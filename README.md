@@ -30,10 +30,10 @@ The agent does not store past pollution values and does not adapt or learn over 
 - OpenWeatherMap API  
 - Google Colab / Jupyter Notebook
 
-## ⚙ Installation & Usage
+## Installation & Usage
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/aqi-tracker.git
+   git clone https://github.com/yourusername/aqi-checker.git
 2. Open the .ipynb notebook file from the repository.
 3. Run the notebook in:
    - Google Colab (recommended), or
