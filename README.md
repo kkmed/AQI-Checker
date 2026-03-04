@@ -44,9 +44,9 @@ The agent does not store past pollution values and does not adapt or learn over 
 
 ## How It Works
 
-1. The user inputs the latitude and longitude of a location.
+1. The user inputs a city name.
 
-2. The system sends a request to the OpenWeatherMap API to retrieve current air pollution data.
+2. The system finds that lat and long of the city if it is valid and sends a request to the OpenWeatherMap API to retrieve current air pollution data.
 
 3. The API returns pollutant concentration values in JSON format.
 
